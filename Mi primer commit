@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi página móvil</title>
+</head>
+<body>
+
+  <h1>te amo leila</h1>
+  <p>estoy creando una pagina de internet para sacar informacion de la gente, contraseñas y todo</p>
+
+  <button onclick="saludar()">solo tienes que picarle</button>
+
+  <script>
+    function saludar() {
+      alert("te la creiste,aun no funciona");
+    }
+  </script>
+
+</body>
+</html>
